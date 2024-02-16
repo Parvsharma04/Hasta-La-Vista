@@ -1,0 +1,24 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "hi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parvsharma04/css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parvsharma04/css/issues"
+  },
+  "homepage": "https://github.com/Parvsharma04/css#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.22.0"
+  }
+}
